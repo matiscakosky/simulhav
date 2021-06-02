@@ -1,4 +1,4 @@
-# simulhav
+# Grupo 12
 
 | Integrante             | Padrón    | 
 |-------------------|-------------|
