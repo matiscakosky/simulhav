@@ -1,4 +1,4 @@
-# Grupo 12
+# Grupo 12 - SimulHAV
 
 | Integrante             | Padrón    | 
 |-------------------|-------------|
